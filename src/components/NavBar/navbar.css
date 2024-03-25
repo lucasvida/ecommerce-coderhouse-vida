@@ -1,0 +1,35 @@
+.menu{
+    width: 85%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ul{
+    float: left;
+}
+
+li{
+    list-style: none;
+    display: inline-block;
+    margin-left: 15px;
+}
+
+li a{
+    text-decoration: none;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: crimson;
+}
+
+.btn-login{
+    padding: 15px;
+    border-radius: 10px;
+    background-color: black;
+    border: none;
+    color: yellow;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 0.7em;
+}
