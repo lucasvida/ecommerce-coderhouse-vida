@@ -26,6 +26,7 @@ function NavBar(){
            <button className="btn-login">LOGIN</button>
         </div>
     </nav>)
+    
 }
 
 export default NavBar;
